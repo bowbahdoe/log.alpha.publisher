@@ -1,4 +1,4 @@
-## log.alpha.publsher
+## log.alpha.publisher
 
 This module contains my rough draft of a publisher for log.alpha
 
